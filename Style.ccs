@@ -1,3 +1,56 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #ccc;
+  padding: 20px;
+}
+
+#beranda {
+  background-color: #fff;
+}
+
+#tentang {
+  background-color: #eee;
+}
+
+#kontak {
+  background-color: #ddd;
+}
+
 #informasi {
   margin-top: 20px;
 }
